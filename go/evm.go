@@ -1,6 +1,6 @@
 // Package evm is an **incomplete** implementation of the Ethereum Virtual
 // Machine for the "EVM From Scratch" course:
-// https://github.com/w1nt3r-eth/evm-from-scratch
+// https://github.com/peterpaker/evm-from-scratch
 //
 // To work on EVM From Scratch In Go:
 //

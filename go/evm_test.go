@@ -125,5 +125,5 @@ func TestEVM(t *testing.T) {
 func fatalAndBugReport(t *testing.T, format string, a ...interface{}) {
 	t.Helper()
 	t.Errorf(format, a...)
-	t.Fatal("The error wasn't in your code. Please file a bug report at https://github.com/w1nt3r-eth/evm-from-scratch/issues/new")
+	t.Fatal("The error wasn't in your code. Please file a bug report at https://github.com/peterpaker48/evm-from-scratch/issues/new")
 }
